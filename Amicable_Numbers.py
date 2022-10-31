@@ -10,4 +10,3 @@ if get_pfs(a)==b and get_pfs(b)==a: #get_pfs(10)
     print('Amicable')
 else:
     print('Not Amicable')
-
